@@ -5,7 +5,7 @@
 
 import java.lang.Math;
 
-public class sequenceAlignment {
+public class sequenceAlignment_DC {
 
     private static char[] x = {'T', 'C', 'G', 'A', 'A', 'G', 'G', 'G', 'T', 'A'};
     private static char[] y = {'C', 'T', 'G', 'T', 'G', 'T', 'A', 'C', 'A', 'A'};

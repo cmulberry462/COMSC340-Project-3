@@ -1,0 +1,8 @@
+private static char[] x = {'A', 'T', 'C', 'G'};
+private static char[] y = {'T', 'A', 'T', 'C'};
+
+private static char[] x = {'T', 'C', 'G', 'G', 'A', 'C', 'T', 'A'};
+private static char[] y = {'A', 'C', 'C', 'T', 'G', 'A', 'G', 'T'};
+
+private static char[] x = {'T', 'C', 'T', 'A', 'G', 'C', 'T', 'A', 'C', 'C', 'T', 'A'};
+private static char[] y = {'A', 'C', 'G', 'A', 'T', 'G', 'G', 'T', 'C', 'T', 'G', 'C'};
